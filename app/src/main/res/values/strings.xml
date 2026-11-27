@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Label pendek di layar HP; nama lengkap tampil di dalam app -->
+    <string name="app_label">Scan PDF-in</string>
+    <string name="app_name">Scan dan PDF-in</string>
+</resources>
